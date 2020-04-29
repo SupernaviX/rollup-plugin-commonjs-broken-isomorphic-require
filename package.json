@@ -1,0 +1,15 @@
+{
+  "name": "rollup-plugin-commonjs-broken-isomorphic-require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.1.0",
+    "rollup": "^2.7.3"
+  }
+}
